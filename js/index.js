@@ -1,5 +1,5 @@
 
-$('.ri-close-line').click(function () { 
+$('.ri-close-line, div, p, a').click(function () { 
    $('#navLinks').css('right', '-200px');
     
 });
