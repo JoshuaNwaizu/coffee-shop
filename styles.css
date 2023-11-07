@@ -213,6 +213,9 @@ nav .ri {
     .footer p {
         font-size: 15px;
     }
+    .footer p br{
+        display: none;
+         }
 
 }
 
@@ -221,6 +224,9 @@ nav .ri {
         position: relative;
         font-size: 28px;
         top: 130px;
+    }
+    .footer p br{
+   display: none;
     }
 }
 

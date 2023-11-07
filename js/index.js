@@ -3,10 +3,12 @@ $('.ri-close-line').click(function () {
    $('#navLinks').css('right', '-200px');
     
 });
+
 $('.ri-menu-5-line').click(function () { 
-    $('#navLinks').css('right', '0');
-     
- });
+   $('#navLinks').css('right', '0');
+    
+});
+
 
  const sr = ScrollReveal ({
    distance: '65px',
