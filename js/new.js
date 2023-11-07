@@ -1,7 +1,7 @@
-  
+
 let swiperCards = new Swiper('.card-content', {
   loop: true,
-  spaceBetween:32,
+  spaceBetween: 32,
   grabCursor: true,
   autoplay: {
     delay: 3000, // Set the time in milliseconds between slides.
@@ -27,6 +27,7 @@ let swiperCards = new Swiper('.card-content', {
     968: {
       slidesPerView: 3,
     },
-    
+
   },
 });
+
