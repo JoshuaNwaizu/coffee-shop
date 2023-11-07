@@ -517,7 +517,6 @@ h3 {
     z-index: 1000;
     width: 100%;
     position: fixed;
-
     align-items: center;
     justify-content: space-between;
     padding: 7px 9%;
@@ -531,7 +530,7 @@ h3 {
 
 .sub-header h1 {
     position: relative;
-    top: 240px;
+    top: 190px;
     font-size: 40px;
     text-transform: capitalize;
 }
