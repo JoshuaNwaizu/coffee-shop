@@ -126,6 +126,9 @@ nav .logo {
 nav .ri {
     display: none;
 }
+.icons a {
+    text-decoration: none;
+}
 
 @media(max-width: 700px) {
     nav .logo {
