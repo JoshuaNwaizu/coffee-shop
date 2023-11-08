@@ -5,6 +5,7 @@ let swiperCards = new Swiper('.card-content', {
   grabCursor: true,
   autoplay: {
     delay: 3000, // Set the time in milliseconds between slides.
+    disableOnInteraction: false, 
   },
 
 
@@ -29,5 +30,9 @@ let swiperCards = new Swiper('.card-content', {
     },
 
   },
+});
+
+swiperCards.on('click', function () {
+  swiperCards.autoplay.start();
 });
 
