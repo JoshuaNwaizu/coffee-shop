@@ -35,7 +35,7 @@ sr.reveal('.footer', {delay: 20, origin:'bottom'})
 sr.reveal('.logo', {delay: 20, origin:'top'})
 sr.reveal('.container', {delay: 20, origin:'bottom'})
 sr.reveal('.blog-left', {delay: 20, origin:'bottom'})
-sr.reveal('.blog-right', {delay: 20, origin:'right'})
+sr.reveal('.blog-right', {delay: 20, origin:'bottom'})
 sr.reveal('.comment-box', {delay: 20, origin:'bottom'})
 
 
