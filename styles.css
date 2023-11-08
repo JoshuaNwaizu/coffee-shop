@@ -213,21 +213,25 @@ nav .ri {
     .footer p {
         font-size: 15px;
     }
-    .footer p br{
+
+    .footer p br {
         display: none;
-         }
+    }
 
 }
 
 @media(max-width: 375px) {
     body .sub-header h1 {
         position: relative;
-        font-size: 28px;
-        top: 130px;
+        font-size: 25px;
+        top: 110px;
     }
-    .footer p br{
-   display: none;
+
+    .footer p br {
+        display: none;
     }
+
+
 }
 
 /*------PURCHASE------*/
@@ -933,4 +937,3 @@ i {
     padding-top: 40px;
     margin-bottom: -30px;
 }
-

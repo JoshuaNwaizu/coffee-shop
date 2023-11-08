@@ -10,6 +10,7 @@ $('.ri-menu-5-line').click(function () {
 });
 
 
+
  const sr = ScrollReveal ({
    distance: '65px',
    duration: 2600,
