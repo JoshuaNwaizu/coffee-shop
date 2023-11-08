@@ -230,6 +230,9 @@ nav .ri {
     .footer p br {
         display: none;
     }
+    .nav {
+        width: 100%;
+    }
 
 
 }
